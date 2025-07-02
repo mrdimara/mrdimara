@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @mrdimara
 
-- 🎓 2nd-year Electrical Engineering undergrad at IIT (ISM) Dhanbad
+- 🎓Pursuing Electrical Engineering undergrad at IIT (ISM) Dhanbad
 - 🔍 Passionate about **Machine Learning**, **Electric Vehicles**, and **Motor Control Systems**
 - 🤖 Currently working on:
   - **Field-Oriented Control (FOC)** for 3-phase and 5-phase induction motors in MATLAB Simulink
